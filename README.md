@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eman Nazir 👋</h1>
 
 <p align="center">
-  BS Computer Science student · MERN Stack Developer Trainee at ZACoders
+  BS Computer Science student · MERN Stack Developer 
 </p>
 
 <p align="center">
