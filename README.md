@@ -127,8 +127,8 @@ HTML → CSS → JavaScript → React → Node.js Core → Full Backend
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Eman-Nazir&show_icons=true&theme=tokyonight&hide_border=true" alt="Eman Nazir's GitHub stats" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Eman-Nazir&layout=compact&theme=tokyonight&hide_border=true" alt="Eman Nazir's most used languages" />
+  <img height="165" src="https://github-readme-stats-murex-two-59.vercel.app/api?username=Eman-Nazir&show_icons=true&theme=tokyonight&hide_border=true" alt="Eman Nazir's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-murex-two-59.vercel.app/api/top-langs/?username=Eman-Nazir&layout=compact&theme=tokyonight&hide_border=true" alt="Eman Nazir's most used languages" />
 </p>
 
 <p align="center">
