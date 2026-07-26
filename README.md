@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eman+Nazir+%F0%9F%91%8B;MERN+Stack+Developer;BS+Computer+Science+Student;Building+in+Public+%23100DaysOfWebDevelopment" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Eman+Nazir+%F0%9F%91%8B;MERN+Stack+Developer;BS+Computer+Science+Student;Building+in+Public+%23100DaysOfWebDevelopment" alt="Hi, I'm Eman Nazir - MERN Stack Developer - BS Computer Science Student - Building in Public #100DaysOfWebDevelopment" />
 
 ### Full-Stack MERN Developer turning a 100-day learning challenge into production-grade software
 
@@ -127,12 +127,12 @@ HTML → CSS → JavaScript → React → Node.js Core → Full Backend
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eman-Nazir&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman-Nazir&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eman-Nazir&show_icons=true&theme=tokyonight&hide_border=true" alt="Eman Nazir's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman-Nazir&layout=compact&theme=tokyonight&hide_border=true" alt="Eman Nazir's most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eman-Nazir&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eman-Nazir&theme=tokyonight&hide_border=true" alt="Eman Nazir's GitHub streak stats" />
 </p>
 
 ---
