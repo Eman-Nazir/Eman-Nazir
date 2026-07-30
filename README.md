@@ -131,9 +131,7 @@ HTML → CSS → JavaScript → React → Node.js Core → Full Backend
   <img height="165" src="https://github-readme-stats-murex-two-59.vercel.app/api/top-langs/?username=Eman-Nazir&layout=compact&theme=tokyonight&hide_border=true" alt="Eman Nazir's most used languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eman-Nazir&theme=tokyonight&hide_border=true" alt="Eman Nazir's GitHub streak stats" />
-</p>
+
 
 ---
 
