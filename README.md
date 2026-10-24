@@ -145,7 +145,7 @@ HTML → CSS → JavaScript → React → Node.js Core → Full Backend
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eman-Nazir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%" />
+  <img src="https://ghchart.rshah.org/8b5cf6/Eman-Nazir" alt="Eman Nazir's contribution chart" width="95%" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt=""/>
