@@ -1,162 +1,151 @@
-<div align="center">
+\<div align="center">\
+\
+\<img src="https\://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Eman+Nazir+%F0%9F%91%8B;MERN+Stack+Developer;BS+Computer+Science+Student;Building+in+Public+%23100DaysOfWebDevelopment" alt="Hi, I'm Eman Nazir - MERN Stack Developer - BS Computer Science Student - Building in Public #100DaysOfWebDevelopment" />\
+\
+\### Full-Stack MERN Developer turning a 100-day learning challenge into production-grade software\
+\
+\<p>\
+&#x20; \<a href="https\://linkedin.com/in/eman-nazir-231145316/">\<img src="https\://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />\</a>\
+&#x20; \<a href="https\://github.com/Eman-Nazir">\<img src="https\://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />\</a>\
+\</p>\
+\
+\</div>\
+\
+\---\
+\
+\## 🧭 About Me\
+\
+I'm a Computer Science student at the \*\*University of Agriculture Faisalabad\*\*, training as a \*\*MERN Stack Developer Trainee at ZACoders\*\* under the mentorship of \*\*Muhammad Raheel\*\*. I document my entire web development journey publicly through the \*\*#100DaysOfWebDevelopment\*\* challenge on LinkedIn — one topic, one repo, one day at a time — and I'm currently working toward becoming an \*\*Agentic AI Engineer\*\*.\
+\
+\- 🎓 BS Computer Science, University of Agriculture Faisalabad\
+\- 💼 MERN Stack Developer Trainee @ ZACoders\
+\- 📢 Building in public — daily progress under \`#100DaysOfWebDevelopment\`\
+\- 🌱 Currently exploring Agentic AI / LLM-powered systems\
+\- 🎯 Aiming for a remote internship/job and a master's abroad in AI or Software Engineering\
+\
+\---\
+\
+\## 🛠 Tech Stack\
+\
+\<p align="center">\
+&#x20; \<img src="https\://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />\
+&#x20; \<img src="https\://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />\
+&#x20; \<img src="https\://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />\
+&#x20; \<img src="https\://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />\
+&#x20; \<img src="https\://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />\
+&#x20; \<img src="https\://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />\
+&#x20; \<img src="https\://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />\
+&#x20; \<br/>\
+&#x20; \<img src="https\://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />\
+&#x20; \<img src="https\://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />\
+&#x20; \<img src="https\://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />\
+&#x20; \<img src="https\://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />\
+&#x20; \<img src="https\://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />\
+&#x20; \<img src="https\://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />\
+&#x20; \<img src="https\://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />\
+\</p>\
+\
+\---\
+\
+\## 🚀 Featured Projects\
+\
+\<table>\
+\<tr>\
+\<td width="50%" valign="top">\
+\
+\### 🎬 [VideoApp Backend]\(https\://github.com/Eman-Nazir/videoapp-backend)\
+\*\*Production-level YouTube-style platform backend\*\* — the capstone of the 100-day challenge, built day-by-day.\
+\
+\- 🔐 JWT auth, RBAC (user/creator/admin), OTP email verification\
+\- 🎥 Video CRUD with Cloudinary sync, comments, likes, subscriptions\
+\- 💳 Stripe payments · ⚡ Redis (Upstash) caching · 🧾 Swagger docs\
+\- ✅ 78 passing Jest tests · 📊 Winston logging · Deployed on Railway\
+\
+\*\*Stack:\*\* Node.js · Express · MongoDB · Redis · Stripe · Jest\
+\
+🔗 [Live API]\(https\://videoapp-backend-production-a823.up.railway.app/api/v1) · [API Docs]\(https\://videoapp-backend-production-a823.up.railway.app/api-docs) · [Repo]\(https\://github.com/Eman-Nazir/videoapp-backend)\
+\
+\</td>\
+\<td width="50%" valign="top">\
+\
+\### 🧠 [HireIQ]\(https\://github.com/Eman-Nazir/hireiq)\
+\*\*AI-powered resume analyzer & job application tracker\*\* — flagship portfolio project.\
+\
+\- 🎯 ATS match scoring + AI rewrite suggestions via \*\*Google Gemini\*\*\
+\- 📋 Drag-and-drop job application Kanban tracker\
+\- 💬 AI-generated interview prep tailored to a job description\
+\- 🛡️ Role-based admin panel with immutable audit logging\
+\- 🔐 Google OAuth + JWT rotation · ✅ Jest/Supertest test suite\
+\
+\*\*Stack:\*\* React · Node.js · MongoDB · Gemini API · Passport\
+\
+🔗 [Live Demo]\(https\://hireiq-client.vercel.app/) · [Repo]\(https\://github.com/Eman-Nazir/hireiq)\
+\
+\</td>\
+\</tr>\
+\<tr>\
+\<td width="50%" valign="top">\
+\
+\### 📋 [DevBoard Pro]\(https\://github.com/Eman-Nazir/devboard-pro)\
+\*\*Full-stack SaaS project management platform\*\*, inspired by Linear and Jira.\
+\
+\- ⚡ Real-time Kanban board with Socket.io live sync & presence\
+\- 🔗 GitHub webhook integration (HMAC-verified push/PR events)\
+\- 🏢 Multi-tenant workspaces with role-based access control\
+\- 📊 Analytics dashboard — burndown & velocity charts\
+\- 🛡️ Super Admin panel with platform-wide stats\
+\
+\*\*Stack:\*\* React · Node.js · MongoDB · Socket.io · Tailwind\
+\
+🔗 [Live Demo]\(https\://dev-board-kappa.vercel.app) · [Repo]\(https\://github.com/Eman-Nazir/devboard-pro)\
+\
+\</td>\
+\<td width="50%" valign="top">\
+\
+\### 🧱 #100DaysOfWebDevelopment — Learning Path\
+Each stage of the roadmap lives in its own repo, in order:\
+\
+\| Stage | Repo | Focus |\
+\|---|---|---|\
+\| 1 | [\`01-HTML\`]\(https\://github.com/Eman-Nazir/01-HTML) | Structure, tables, forms |\
+\| 2 | [\`02-CSS\`]\(https\://github.com/Eman-Nazir/02-CSS) | Flexbox, animations, gradients |\
+\| 3 | [\`03-JavaScript\`]\(https\://github.com/Eman-Nazir/03-JavaScript) | Closures, prototypes, async/await |\
+\| 4 | [\`04-react-js\`]\(https\://github.com/Eman-Nazir/04-react-js) | Hooks, context, auth strategies |\
+\| 5 | Node.js Core | FS/OS modules, raw HTTP server |\
+\| 6 | Backend Journey | → \*\*VideoApp Backend\*\* (capstone) |\
+\
+\`\`\`\
+HTML → CSS → JavaScript → React → Node.js Core → Full Backend\
+\`\`\`\
+\
+\</td>\
+\</tr>\
+\</table>\
+\
+\---\
+\
+\## 📊 GitHub Stats\
+\
+\<p align="center">\
+&#x20; \<img height="165" src="https\://github-readme-stats-murex-two-59.vercel.app/api?username=Eman-Nazir&show_icons=true&theme=tokyonight&hide_border=true" alt="Eman Nazir's GitHub stats" />\
+&#x20; \<img height="165" src="https\://github-readme-stats-murex-two-59.vercel.app/api/top-langs/?username=Eman-Nazir&layout=compact&theme=tokyonight&hide_border=true" alt="Eman Nazir's most used languages" />\
+\</p>\
+\
+\
+\
+\---\
+\
+\## 📫 Let's Connect\
+\
+Following the build-in-public journey? I post daily progress under \*\*#100DaysOfWebDevelopment\*\* on LinkedIn.\
+\
+\<p align="center">\
+&#x20; \<a href="https\://linkedin.com/in/eman-nazir-231145316/">\<img src="https\://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />\</a>\
+&#x20; \<a href="https\://github.com/Eman-Nazir">\<img src="https\://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />\</a>\
+\</p>\
+\
+\<p align="center">\
+&#x20; \<code>#100DaysOfWebDevelopment\</code> · \<code>#MERNStack\</code> · \<code>#ZACoders\</code>\
+\</p>\
 
-<h1>Hi, I'm Eman Nazir 👋</h1>
 
-<h3>MERN Stack Developer · Computer Science Student</h3>
-
-<p>
-Building full-stack web applications, real-time experiences, and AI-powered tools.
-</p>
-
-<p>
-  <a href="https://linkedin.com/in/eman-nazir-231145316/"><strong>LinkedIn</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Eman-Nazir"><strong>GitHub</strong></a>
-  &nbsp; · &nbsp;
-  <a href="#featured-projects"><strong>Explore My Projects</strong></a>
-</p>
-
-<p>
-  <code>React</code>
-  &nbsp;
-  <code>Node.js</code>
-  &nbsp;
-  <code>Express</code>
-  &nbsp;
-  <code>MongoDB</code>
-</p>
-
-</div>
-
----
-
-## About Me
-
-I'm a **BS Computer Science student at the University of Agriculture Faisalabad** and a **MERN Stack Developer Trainee at ZACoders**, learning under the mentorship of **Muhammad Raheel**.
-
-I build applications that connect responsive interfaces with practical backend systems. My projects explore authentication, real-time collaboration, payment integrations, and AI-assisted workflows.
-
-I enjoy understanding how the pieces fit together—from a React component to an API endpoint and the data behind it. Through **#100DaysOfWebDevelopment**, I document my learning journey on LinkedIn and turn new concepts into hands-on projects.
-
-- **Building:** full-stack applications with the MERN stack.
-- **Exploring:** Agentic AI, LLM-powered applications, and practical AI integrations.
-- **Improving:** API design, testing, authentication, and deployment workflows.
-- **Open to:** remote internships, junior developer roles, and meaningful collaborations.
-- **Long-term direction:** further study in AI or Software Engineering and a career building useful software.
-
-## Technical Toolkit
-
-| Area | Technologies & Tools |
-| :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript, React, Tailwind CSS, Vite |
-| **Backend & APIs** | Node.js, Express.js, REST APIs, Mongoose |
-| **Databases & Caching** | MongoDB, MongoDB Atlas, Redis / Upstash |
-| **Authentication** | JWT, access and refresh tokens, Google OAuth, Passport, role-based access control |
-| **Real-Time Features** | Socket.io, live updates, notifications, online presence |
-| **Integrations** | Google Gemini API, Stripe, Cloudinary, Nodemailer, GitHub webhooks |
-| **Testing & Documentation** | Jest, Supertest, Swagger / OpenAPI |
-| **Development & Deployment** | Git, GitHub, Vercel, Render, Railway |
-
-## Featured Projects
-
-### 01 · HireIQ
-
-**AI-powered resume analysis and job application tracking**
-
-HireIQ brings resume feedback, job tracking, and interview preparation into one application. Users can compare a resume with a job description and organize their applications through a visual workflow.
-
-**Key features**
-
-- **Resume analysis:** AI-assisted match scoring, matched and missing skills, and section-by-section rewrite suggestions through Google Gemini.
-- **Application tracking:** a drag-and-drop Kanban board for tracking applications from applied to interview, offer, or rejection.
-- **Interview preparation:** questions and sample answers tailored to a job description.
-- **Account access:** Google OAuth and email/password authentication with JWT refresh token rotation.
-- **Administration:** user management, platform statistics, and audit logging for admin actions.
-- **User experience:** responsive layouts, light and dark themes, and resume version management.
-
-**Built with:** React · Tailwind CSS · Node.js · Express · MongoDB · Gemini API · Passport · Cloudinary
-
-**Engineering focus:** integrating an AI service into a full-stack application, separating service logic from controllers, and testing authentication flows with Jest and Supertest.
-
-**[Explore the Demo ↗](https://hireiq-client.vercel.app/)** &nbsp; · &nbsp; **[View Source Code ↗](https://github.com/Eman-Nazir/HireIQ)**
-
----
-
-### 02 · DevBoard Pro
-
-**Real-time project management for developer teams**
-
-DevBoard Pro combines workspaces, projects, and Kanban boards with live collaboration. It explores how a team application handles shared data, different user permissions, and updates across multiple connected clients.
-
-**Key features**
-
-- **Workspaces:** separate team spaces with Admin, Member, and Viewer roles.
-- **Task management:** drag-and-drop boards, priorities, due dates, labels, assignees, and task filtering.
-- **Live collaboration:** Socket.io updates for board changes, notifications, and online presence.
-- **GitHub integration:** push and pull request activity through signature-verified webhooks.
-- **Analytics:** task completion, burndown, member velocity, and priority breakdowns.
-- **Administration:** platform statistics and management of users, workspaces, and projects.
-
-**Built with:** React · Tailwind CSS · Node.js · Express · MongoDB · Socket.io · TanStack Query · Zustand
-
-**Engineering focus:** real-time synchronization, workspace permissions, optimistic UI updates, and webhook verification.
-
-**[Explore the Demo ↗](https://dev-board-five.vercel.app/)** &nbsp; · &nbsp; **[View Source Code ↗](https://github.com/Eman-Nazir/DevBoard)**
-
----
-
-### 03 · VideoApp Backend
-
-**REST API for a YouTube-style video platform**
-
-Built as the backend capstone of my web development journey, VideoApp brings together video management, authentication, social interactions, and external service integrations.
-
-**Key features**
-
-- **Authentication:** JWT access and refresh tokens, OTP email verification, password reset, and User/Creator/Admin roles.
-- **Video management:** upload and thumbnail handling through Cloudinary, search, filtering, pagination, and publishing controls.
-- **Social features:** comments, likes, channel subscriptions, and subscription analytics.
-- **Payments:** Stripe checkout integration and payment webhooks.
-- **Performance:** Redis caching, cache invalidation, and MongoDB indexing.
-- **Maintainability:** Jest and Supertest tests, Swagger documentation, Winston logging, and scheduled cleanup tasks.
-
-**Built with:** Node.js · Express · MongoDB · Redis · Cloudinary · Stripe · Jest · Supertest
-
-**Engineering focus:** structuring a backend beyond basic CRUD, integrating external services, and improving testability and observability.
-
-**[View Source Code & Setup ↗](https://github.com/Eman-Nazir/videoapp-backend)**
-
-## My Learning Journey
-
-**#100DaysOfWebDevelopment** is where I document the process behind the projects: learning a concept, applying it, resolving errors, and sharing the result.
-
-| Stage | Focus | Repository |
-| :--- | :--- | :--- |
-| **01 · HTML** | Page structure, forms, tables, and semantic markup | [01-Html](https://github.com/Eman-Nazir/01-Html) |
-| **02 · CSS** | Layouts, Flexbox, responsive styling, gradients, and animations | [02-CSS](https://github.com/Eman-Nazir/02-CSS) |
-| **03 · JavaScript** | Core language concepts, DOM interactions, asynchronous code, and API requests | [03-JavaScript](https://github.com/Eman-Nazir/03-JavaScript) |
-| **04 · React** | Components, props, hooks, state, routing, and application interfaces | [04-react-js](https://github.com/Eman-Nazir/04-react-js) |
-| **05 · Backend Development** | Node.js, Express, MongoDB, authentication, integrations, and testing | [VideoApp Backend](https://github.com/Eman-Nazir/videoapp-backend) |
-| **06 · Full-Stack Applications** | Combining frontend and backend systems in complete projects | [HireIQ](https://github.com/Eman-Nazir/HireIQ) · [DevBoard](https://github.com/Eman-Nazir/DevBoard) |
-
-## What I'm Working Toward
-
-- Building clearer, more maintainable full-stack applications.
-- Strengthening backend design, automated testing, and deployment skills.
-- Learning how LLMs and agentic workflows can support useful applications.
-- Contributing to a development team where I can learn, take responsibility, and improve through feedback.
-
-## Let's Connect
-
-I'm interested in **MERN stack, frontend, backend, and full-stack opportunities**, especially internships and junior roles where I can contribute while continuing to grow.
-
-For opportunities or collaboration, connect with me on **[LinkedIn](https://linkedin.com/in/eman-nazir-231145316/)**.
-
-You can also follow my learning updates through **#100DaysOfWebDevelopment** and explore my work on **[GitHub](https://github.com/Eman-Nazir)**.
-
----
-
-<p align="center">
-  <strong>Eman Nazir</strong><br/>
-  Learning with purpose. Building through practice.
-</p>
